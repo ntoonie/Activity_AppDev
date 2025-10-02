@@ -33,8 +33,6 @@ switch (operation)
         break;
 }
 
-    break;
-}
 
 Console.ReadKey();
 
